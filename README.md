@@ -1,7 +1,6 @@
-<h5>Hello </h5>
 <h5>Laravel Sample Work is presented....<h5>
 
-<p>This is just blog to peresent team and brands and so on...</p>
+<p>This is just blog to present team and brands and so on...</p>
 
 
 <h2>Windows users:</h2>
