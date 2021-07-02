@@ -1,6 +1,6 @@
-Hello Laravel Sample Work is presented....
+<h5>Hello Laravel Sample Work is presented....<h5>
 
-This is just blog to peresent team and brands and so on...
+<p>This is just blog to peresent team and brands and so on...</p>
 
 
 <h2>Windows users:</h2>
@@ -12,18 +12,18 @@ cmder will be refered as console
 
 <h2>Mac Os, Ubuntu and windows users continue here:</h2>
 
-Create a database locally named homestead utf8_general_ci
-Download composer https://getcomposer.org/download/
-Pull Laravel/php project from git provider.
+<p>Create a database locally named homestead utf8_general_ci</p>
+<p>Download composer https://getcomposer.org/download/</p>
+<p>Pull Laravel/php project from git provider.</p>
 <p>Rename .env.example file to .envinside your project root and fill the database information. (windows wont let you do it, so you have to open your console cd your project root directory and run mv .env.example .env )</p>
-Open the console and cd your project root directory
+<p>Open the console and cd your project root directory</p>
 <p>Run composer install or php composer.phar install</p>
 <p>Run php artisan key:generate</p>
 <p>Run php artisan migrate</p>
 <p>Run php artisan db:seed to run seeders, if any.</p>
 <p>Run php artisan serve</p>
-#####You can now access your project at localhost:8000 :)
+<p>You can now access your project at localhost:8000 :)</p>
 
 If for some reason your project stop working do these:
-composer install
-php artisan migrate
+<p>composer install</p>
+<p>php artisan migrate</p>
